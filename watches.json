@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Omega Seamaster", "price": 13200 },
+  { "id": 2, "name": "Rolex Submariner", "price": 7500 },
+  { "id": 3, "name": "Tag Heuer Carrera", "price": 2500 },
+  { "id": 4, "name": "Seiko Prospex", "price": 350 },
+  { "id": 5, "name": "Citizen Eco-Drive", "price": 200 },
+  { "id": 6, "name": "Casio G-Shock", "price": 100 },
+  { "id": 7, "name": "Fossil Grant", "price": 120 },
+  { "id": 8, "name": "Bulova Precisionist", "price": 450 },
+  { "id": 9, "name": "Timex Weekender", "price": 50 },
+  { "id": 10, "name": "Swatch Originals", "price": 70 },
+  { "id": 11, "name": "Tissot Le Locle", "price": 600 },
+  { "id": 12, "name": "Hamilton Khaki", "price": 350 },
+  { "id": 13, "name": "Panerai Luminor", "price": 9500 },
+  { "id": 14, "name": "Longines Master", "price": 2800 },
+  { "id": 15, "name": "Patek Philippe Calatrava", "price": 25000 },
+  { "id": 16, "name": "Audemars Piguet Royal Oak", "price": 22000 },
+  { "id": 17, "name": "Breitling Navitimer", "price": 5500 },
+  { "id": 18, "name": "IWC Portugieser", "price": 8900 },
+  { "id": 19, "name": "Hublot Big Bang", "price": 18000 },
+  { "id": 20, "name": "Cartier Santos", "price": 9500 }
+]
